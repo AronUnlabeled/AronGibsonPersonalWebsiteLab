@@ -1,0 +1,21 @@
+.BigSerif{
+    font-size: 50pt;
+    font-style: serif;
+}
+.RedCursive{
+    color: red;
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 40pt;
+}
+.BlueBackground{
+
+    color: lightgrey;
+    background-color: blue;
+    font-size: 30pt;
+}
+.HeaderImpact{
+    background-color: lightgrey;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: midnightblue;
+    font-size: 60pt;
+}
